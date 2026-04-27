@@ -5,6 +5,12 @@
 
 Actualmente, estoy muy interesado en las áreas de *automatización*, *ciberseguridad* y *Cloud Computing*.
 
+A corto plazo, busco incorporarme a una empresa del sector tecnológico para realizar mis prácticas, donde pueda aplicar mis conocimientos y aprender de profesionales con experiencia. En el futuro, me gustaría especializarme en la administración de infraestructuras en la nube.
+
+¿Quieres conectar o hablar sobre tecnología? Escribeme!
+
+FJGJ@ejemplo.com
+
 ## 🛠️ Habilidades
 A lo largo de mi formación, he adquirido conocimientos prácticos y teóricos en las siguientes áreas tecnológicas:
 
@@ -28,8 +34,4 @@ Aquí tienes un ejemplo del script que utilizo para realizar copias de seguridad
 tar -czvf /backup/web_$(date +%F).tar.gz /var/www/html/
 echo "Copia de seguridad completada con éxito."
 
-A corto plazo, busco incorporarme a una empresa del sector tecnológico para realizar mis prácticas, donde pueda aplicar mis conocimientos y aprender de profesionales con experiencia. En el futuro, me gustaría especializarme en la administración de infraestructuras en la nube.
 
-¿Quieres conectar o hablar sobre tecnología? Escribeme!
-
-FJGJ@ejemplo.com
